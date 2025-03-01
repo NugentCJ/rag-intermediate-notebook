@@ -3,3 +3,4 @@ langchain_ollama
 lancedb
 langchain-community
 langchain-core
+ipywidgets
